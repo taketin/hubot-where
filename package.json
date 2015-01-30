@@ -1,0 +1,24 @@
+{
+  "name": "hubot-where",
+  "version": "0.1.0",
+  "description": "where is hubot ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taketin/hubot-where.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-script",
+    "hostname"
+  ],
+  "author": "taketin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taketin/hubot-where/issues"
+  },
+  "homepage": "https://github.com/taketin/hubot-where"
+}
